@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\bin\Debug\JavaScriptInCSharp7.exe.config
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\bin\Debug\JavaScriptInCSharp7.exe
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\bin\Debug\JavaScriptInCSharp7.pdb
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.Form1.resources
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.Properties.Resources.resources
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.exe
+C:\Users\Paul\source\repos\JavaScriptInCSharp7\JavaScriptInCSharp7\obj\Debug\JavaScriptInCSharp7.pdb
